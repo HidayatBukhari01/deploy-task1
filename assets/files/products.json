@@ -1,0 +1,74 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Wireless Headphones",
+      "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/MQTQ3?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=1687660671363",
+      "price": 79.99,
+      "description": "Experience high-quality sound with these sleek wireless headphones, featuring noise-cancellation and up to 20 hours of battery life."
+    },
+    {
+      "id": "2",
+      "name": "Smartphone",
+      "image": "http://img.freepik.com/premium-photo/smartphone-balancing-with-pink-background_23-2150271746.jpg?size=338&ext=jpg&ga=GA1.1.2008272138.1725408000&semt=ais_hybrid",
+      "price": 699.99,
+      "description": "Stay connected with this powerful smartphone, offering a stunning display, advanced camera features, and long-lasting battery."
+    },
+    {
+      "id": "3",
+      "name": "Laptop",
+      "image": "https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RW16lN4?ver=46fe&q=90&m=6&h=705&w=1253&b=%23FFFFFFFF&f=jpg&o=f&p=140&aim=true",
+      "price": 999.99,
+      "description": "A high-performance laptop with a sleek design, perfect for work and play, featuring a powerful processor and vibrant display."
+    },
+    {
+      "id": "4",
+      "name": "Smartwatch",
+      "image": "https://www.boat-lifestyle.com/cdn/shop/files/LunarCall_1.png?v=1701763426",
+      "price": 199.99,
+      "description": "Keep track of your fitness and notifications with this stylish smartwatch, offering multiple sports modes and long battery life."
+    },
+    {
+      "id": "5",
+      "name": "Tablet",
+      "image": "https://m.media-amazon.com/images/I/4129iYx95yL.jpg",
+      "price": 499.99,
+      "description": "A versatile tablet perfect for entertainment and productivity, featuring a large display, fast processor, and ample storage."
+    },
+    {
+      "id": "6",
+      "name": "Bluetooth Speaker",
+      "image": "https://www.portronics.com/cdn/shop/products/1200x1200-1_45e185e6-f357-4b59-9b07-bb108405dd6b.jpg?v=1666346127",
+      "price": 49.99,
+      "description": "Portable and powerful, this Bluetooth speaker delivers rich sound with deep bass, ideal for any occasion."
+    },
+    {
+      "id": "7",
+      "name": "Camera",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmH2GAPqAp5VJzhUuAmK2r0OTTS3zixJSyBw&s",
+      "price": 449.99,
+      "description": "Capture stunning photos and videos with this high-quality camera, featuring advanced autofocus and multiple shooting modes."
+    },
+    {
+      "id": "8",
+      "name": "Gaming Console",
+      "image": "https://m.media-amazon.com/images/I/51K9gmnwGXL._AC_UF1000,1000_QL80_.jpg",
+      "price": 399.99,
+      "description": "Immerse yourself in next-gen gaming with this powerful console, offering 4K gaming and a vast library of games."
+    },
+    {
+      "id": "9",
+      "name": "External Hard Drive",
+      "image": "https://5.imimg.com/data5/UR/NM/MY-24904855/external-hard-disk-500x500.jpg",
+      "price": 89.99,
+      "description": "Securely store your files and backups with this reliable external hard drive, offering fast data transfer speeds."
+    },
+    {
+      "id": "10",
+      "name": "4K Monitor",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0teMdWzygYCZl1L-_eyDlqZmAv01F3eZ7dA&s",
+      "price": 299.99,
+      "description": "Enhance your viewing experience with this 4K monitor, featuring vivid colors, sharp details, and multiple connectivity options."
+    }
+  ]
+}
